@@ -1,0 +1,25 @@
+{
+  "name": "jingboyunshang-app-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "csscomb": "csscomb src --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.3.5",
+    "browser-sync": "^2.11.2",
+    "csscomb": "^3.1.8",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-postcss": "^6.1.0",
+    "gulp-processhtml": "^1.1.0",
+    "gulp-sass": "^2.2.0",
+    "postcss-px2rem": "^0.2.0",
+    "postcss-sorting": "^1.2.2",
+    "postcss-sprites": "^3.1.1",
+    "run-sequence": "^1.1.5"
+  }
+}
